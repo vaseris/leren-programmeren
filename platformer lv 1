@@ -12,7 +12,12 @@
     <h1>Platformer game lv 1 </h1>
     <a href="//leren-programmeren.vaseris.nl/godot">Terug naar home</a>
 </header>
+<header>
+    <li><a href="/klaarzetten"><button type="button" class="btn btn-success">klaarzetten</button></a></li>
+</header>
     <section class="cta">
         <h2>Leer vandaag nog een spel te maken in godot</h2>
         <p>Leer programmeren</p>
     </section>
+</body>
+</html>
