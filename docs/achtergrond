@@ -14,26 +14,26 @@
 </header>
 <header>
     <li><a href="https://pixelfrog-assets.itch.io/pixel-adventure-1"><button type="button" class="btn btn-danger">Background download</button></a></li>
-<p>image: green background</p>  
-<p>stop het in de /ress</p> 
-<p>new node: texturerect</p> 
-<p>verplaats de tekst met de background</p>
-<p>anchor preset: full rect</p>
-<p>texture: filter: nearest</p>
-<p>strech mode: tile</p>
-<p>stop het terrain uit de download naar /ress</p>
-<p>add child note: tilemap</p>
-<p>stop het tarrain in tiles</p>
-<p>klik yes</p>
-<p>ga naar beneden naar de tilemap</p>
-<p>verander de scale (kijk wat je het leukste vind)</p>
-<p>maak de hele omgeving hoe je het wil</p>
-<p>texture: nearest</p>
-<p>vul de randen op</p>
+<p>Image: green background.</p>  
+<p>Stop het in de /ress.</p> 
+<p>New node: texturerect.</p> 
+<p>Verplaats de tekst met de background.</p>
+<p>Anchor preset: full rect.</p>
+<p>Texture: filter: nearest.</p>
+<p>Strech mode: tile.</p>
+<p>Stop het terrain uit de download naar /ress.</p>
+<p>Add child note: tilemap.</p>
+<p>Stop het tarrain in tiles.</p>
+<p>Klik yes.</p>
+<p>Ga naar beneden naar de tilemap.</p>
+<p>Verander de scale (kijk wat je het leukste vind).</p>
+<p>Maak de hele omgeving hoe je het wil.</p>
+<p>Texture: nearest.</p>
+<p>Vul de randen op.</p>
 </header>
     <section class="cta">
-        <h2>Maak een achtergrond</h2>
-        <p>Leer programmeren</p>
+        <p>Leer programmeren.</p>
+        <h2>Maak een achtergrond.</h2>
     </section>
 </body>
 </html>

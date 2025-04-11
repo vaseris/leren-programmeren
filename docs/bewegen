@@ -9,18 +9,18 @@
 </head>
 <body>
 <header>
-    <h1>Platformer game lv 1 </h1>
+    <h1>Platformer game lv 2 </h1>
     <a href="//leren-programmeren.vaseris.nl/godot">Terug naar home</a>
 </header>
 <header>
-    <li><a href="/klaarzetten"><button type="button" class="btn btn-success">Klaarzetten</button></a></li>
-    <li><a href="/achtergrond"><button type="button" class="btn btn-primary">Achtergrond</button></a></li>
-    <li><a href="/personage"><button type="button" class="btn btn-danger">Personage</button></a></li>
-    <li><a href="/bewegen"><button type="button" class="btn btn-warning">Bewegen/animeren</button></a></li>
+    <p>tilemap: tileset: physic layers: add element</p>
+    <p>paint: physic layers o</p>
+    <p></p>
+    <p></p>
 </header>
     <section class="cta">
         <p>Leer programmeren.</p>
-        <h2>Leer vandaag nog een spel te maken in godot.</h2>
+        <h2>Ga veder met je platformer game.</h2>
     </section>
 </body>
 </html>

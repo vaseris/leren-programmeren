@@ -13,29 +13,28 @@
     <a href="//leren-programmeren.vaseris.nl/godot">Terug naar home</a>
 </header>
 <header>
-    <p>node: characterbody</p>
-    <p>node: sprite 2d</p>
-    <p>voeg ninja frog toe als sprite texture</p>
-    <p>maak hem de goede groote</p>
-    <p>texture: nearest</p>
-    <p>select: characterbody</p>
-    <p>node: collision shape 2d</p>
-    <p>shape: rectangel</p>
-    <p>maak het ongeveer dezelfde groote als de personage</p>
-    <p>characterbody: save as branch scene</p>
-    <p>create new folder: scenes</p>
-    <p>noem het main character.tscn</p>
-    <p>plan</p>
-    <p>ga naar main_character scene</p>
-    <p>ga naar root node</p>
-    <p>klik op small script icon</p>
-    <p>create: output: save the scene</p>
-    <p>je kan het nu uittesten klik op play</p>
-    <p></p>
+    <p>Node: characterbody.</p>
+    <p>Node: sprite 2d.</p>
+    <p>Voeg ninja frog toe als sprite texture.</p>
+    <p>Maak hem de goede groote.</p>
+    <p>Texture: nearest.</p>
+    <p>Select: characterbody.</p>
+    <p>Node: collision shape 2d.</p>
+    <p>Shape: rectangel.</p>
+    <p>Maak het ongeveer dezelfde groote als de personage.</p>
+    <p>Characterbody: save as branch scene.</p>
+    <p>Create new folder: scenes.</p>
+    <p>Noem het main character.tscn.</p>
+    <p>Plan.</p>
+    <p>Ga naar main_character scene.</p>
+    <p>Ga naar root node.</p>
+    <p>Klik op small script icon.</p>
+    <p>Create: output: save the scene.</p>
+    <p>Je kan het nu uittesten klik op play.</p>
 </header>
     <section class="cta">
+        <p>Leer programmeren.</p>
         <h2>Maak de hoofdpersonage.</h2>
-        <p>Leer programmeren</p>
     </section>
 </body>
 </html>
