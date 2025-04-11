@@ -16,6 +16,21 @@
     <p>node: characterbody</p>
     <p>node: sprite 2d</p>
     <p>voeg ninja frog toe als sprite texture</p>
+    <p>maak hem de goede groote</p>
+    <p>texture: nearest</p>
+    <p>select: characterbody</p>
+    <p>node: collision shape 2d</p>
+    <p>shape: rectangel</p>
+    <p>maak het ongeveer dezelfde groote als de personage</p>
+    <p>characterbody: save as branch scene</p>
+    <p>create new folder: scenes</p>
+    <p>noem het main character.tscn</p>
+    <p>plan</p>
+    <p>ga naar main_character scene</p>
+    <p>ga naar root node</p>
+    <p>klik op small script icon</p>
+    <p>create: output: save the scene</p>
+    <p>je kan het nu uittesten klik op play</p>
     <p></p>
 </header>
     <section class="cta">
